@@ -6,7 +6,7 @@ HOW TO RUN THIS APPLICATION ?
 
 1. Click "Code" button on top right corner.
 2. Download the zip file then extract it inside your computer folder.
-3. Drag the file to your VS Code. (Make sure you have Java JDK installed)
+3. Drag the file to your VS Code. (Make sure you have JDK installed)
 4. Run the AppQueueBook.java class because it is the main class by clicking "run" button.
 
 NOTE IF YOU DIDN'T HAVE VS CODE
