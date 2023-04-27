@@ -13,6 +13,7 @@ NOTE IF YOU DIDN'T HAVE VS CODE
 (Do not install any Java IDE or Code Editor when you already have one)
 
 1. You may use any Java IDE or Code Editor you preferred.
-2. Just follow step 1 to step 2 above and drag the file inside your lovely IDE or Code Editor.
+2. Just follow step 1 to step 2 above and drag only .java file inside your lovely IDE or Code Editor.
 3. Run AppQueueBook.java inside your IDE or Code Editor by clicking "run" button
-4. Do not copy all the code because it will lead to plagiarism.
+
+NOTE: Do not copy all the code because it will lead to plagiarism.
